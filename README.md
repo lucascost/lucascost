@@ -1,14 +1,14 @@
 ## 👋 Olá! Bem vindo ao meu GitHub! 
 
-Me chamo Lucas, sou um estudante de Análise e Desenvolvimento de Sistemas com 2 anos de experiência em estágio.
-Meu objetivo é usar a tecnologia para otimizar nosso dia a dia, tornando a vida mais eficiente e valiosa. 
+Sou Desenvolvedor Web com 2 anos de experiência em estágio.
+Meu foco está em construir soluções tecnológicas que tenham um propósito claro e impacto positivo no uso real.
 
 ## 👨🏻‍💻 Tecnologias
 
 - Linguagens: Python, Java, Javascript
 - Web: HTML/CSS, Bootstrap,
 - Frameworks: Django, Spring, Angular
-- Bancos de dados: SQL
+- Bancos de dados: MySQL, PostgreSQL
 
 ## 📫 Vamos nos conectar!
 
