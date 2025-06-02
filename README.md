@@ -1,12 +1,12 @@
 ## 👋 Olá! Bem vindo ao meu GitHub! 
 
-Sou Desenvolvedor Web com 2 anos de experiência em estágio.
+Sou Desenvolvedor Web com 3 anos de experiência em estágio e projetos pessoais.
 Meu foco está em construir soluções tecnológicas que tenham um propósito claro e impacto positivo no uso real.
 
 ## 👨🏻‍💻 Tecnologias
 
 - Linguagens: Python, Java, Javascript
-- Web: HTML/CSS, Bootstrap,
+- Web: HTML/CSS, Bootstrap
 - Frameworks: Django, Spring, Angular
 - Bancos de dados: MySQL, PostgreSQL
 
